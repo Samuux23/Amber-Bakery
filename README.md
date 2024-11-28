@@ -22,5 +22,5 @@ Amber Bakery, a renowned pastry shop in the UK, required an automated billing sy
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/amber-bakery-billing-system.git
+   git clone https://github.com/Samuux23/Amber-Bakery.git
    ```
